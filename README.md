@@ -7,5 +7,3 @@
 * React 
 * Jpa
 * Lombok
-
-  
